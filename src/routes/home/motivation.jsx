@@ -12,7 +12,7 @@ export default function Motivation(props) {
           flexWrap: { xs: 'wrap', md: 'nowrap' },
           display: 'flex',
           maxWidth: 'xl',
-          py: 75,
+          py: 40,
         }}
       >
         <Box>
