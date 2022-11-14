@@ -11,7 +11,7 @@ export default function Intro(props) {
           flexWrap: { xs: 'wrap', md: 'nowrap' },
           display: 'flex',
           maxWidth: 'xl',
-          py: 50,
+          py: 40,
         }}
       >
         <Box>
