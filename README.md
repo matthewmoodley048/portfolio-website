@@ -22,7 +22,7 @@ From visual studio/visual studio code:
 Lastly...  enjoy!
 -------------------------------------------------------------------------------------------------------
 
-Alternatively here is the link to the live site
+Alternatively here is the link to the live site: https://mpmoodleysite.vercel.app/
 -------------------------------------------------------------------------------------------------------
 
 -------------------------------------------------------------------------------------------------------
