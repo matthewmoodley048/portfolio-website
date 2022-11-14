@@ -1,0 +1,35 @@
+a:link.lightlink {
+  font-weight: normal;
+  color: #DDE0EB;
+}
+
+a:visited.lightlink{
+  color: #DDE0EB;
+}
+
+a:hover.lightlink  {
+  font-weight: bold;
+  color: #F9FCF7;
+}
+
+a:active.lightlink  {
+  color: #F9FCF7;
+}
+
+a:link.darklink {
+  font-weight: normal;
+  color: #242424;
+}
+
+a:visited.darklink{
+  color:#242424;
+}
+
+a:hover.darklink  {
+  font-weight: bold;
+  color:#242424; 
+}
+
+a:active.darklink  {
+  color: #242424;
+}
