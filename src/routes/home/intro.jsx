@@ -11,7 +11,7 @@ export default function Intro(props) {
           flexWrap: { xs: 'wrap', md: 'nowrap' },
           display: 'flex',
           maxWidth: 'xl',
-          py: 75,
+          py: 50,
         }}
       >
         <Box>
@@ -25,7 +25,7 @@ export default function Intro(props) {
           </Typography>
           <br />
           <Typography color='text.primary' fontSize='1.9em'>
-           This mini-portfolio is a demonstration of Why I would like to work at SovTech and about who I am.
+           This mini-portfolio is a demonstration of why I would like to work at SovTech and about who I am.
           </Typography>
           <br />
         </Box>
